@@ -1,0 +1,9 @@
+#main_title{
+	text-align: center;
+	color: red;
+	font-family: "Georgia", serif;
+	font-size: 30pt;
+	text-decoration: underline;
+	text-shadow: 3px 2px grey;
+	font-style: italic;
+}
